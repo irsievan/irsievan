@@ -1,3 +1,5 @@
+### 👀![Visitor Count](https://komarev.com/ghpvc/?username=irsievan-debug&label=Visitors&color=0e75b6&style=flat)
+
 <p align="center">
   <img src="baby-smile-baby-speed.gif" width="300">
 </p>
@@ -16,6 +18,3 @@ I'm a 3rd Year CS student, striving to learn more!
 ![](https://github-readme-stats.vercel.app/api?username=irsievan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=irsievan&icon=0&color=0)](https://visitcount.itsvg.in)
