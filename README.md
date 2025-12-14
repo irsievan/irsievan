@@ -4,6 +4,9 @@
   <img src="baby-smile-baby-speed.gif" width="300">
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&pause=1000&lines=Hello+;My+name+is+Evan!+;Hope+you+have+a+lovely+day+<3!" />
+</h1>
 
 # 💫 About Me:
 I'm a 3rd Year CS student, striving to learn more!
